@@ -21,7 +21,7 @@ Copy your language file to `resources/lang/en/` , then run the command below.
 #### Normal Command
     php run translate
 #### Advance Command
-    php run translate --name="message" --lang="cn,my"
+    php run translate --name="message" --lang="cn,ms"
 
 ### Supported Languages
 
@@ -242,8 +242,6 @@ Copy your language file to `resources/lang/en/` , then run the command below.
 `yo - Yoruba`
 
 `zu - Zulu`
-
-Feel free to create a pull request to get your languages supported.
 
 ## License
 Laravel Google Translate is an open-source software licensed under the MIT license.
